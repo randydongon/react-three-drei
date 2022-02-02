@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-three-drei/static/css/main.073c9b0a.css",
+    "main.js": "/react-three-drei/static/js/main.7c98be0e.js",
+    "static/js/787.dcf2a9cf.chunk.js": "/react-three-drei/static/js/787.dcf2a9cf.chunk.js",
+    "index.html": "/react-three-drei/index.html",
+    "main.073c9b0a.css.map": "/react-three-drei/static/css/main.073c9b0a.css.map",
+    "main.7c98be0e.js.map": "/react-three-drei/static/js/main.7c98be0e.js.map",
+    "787.dcf2a9cf.chunk.js.map": "/react-three-drei/static/js/787.dcf2a9cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c98be0e.js"
+  ]
+}
